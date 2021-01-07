@@ -1,2 +1,3 @@
 # javaproject
-This is a billing software for a pet shop
+This is a Java code to implement billing system in a pet supply 
+store.
